@@ -2,7 +2,7 @@
 
 ![TufailKhanDeveloper's Stats](https://github-readme-stats.vercel.app/api?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&count_private=false) 
 ##
- ![TufailKhanDeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+ ![TufailKhanDeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&layout=compact) <img align='right' src="https://scontent.fkhi24-1.fna.fbcdn.net/v/t39.30808-6/344304750_1208527323132142_6358815451558586277_n.jpg" width="230">
 ##
 ![TufailKhanDeveloper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TufailKhanDeveloper&theme=highcontrast&hide_border=true)
 ##
