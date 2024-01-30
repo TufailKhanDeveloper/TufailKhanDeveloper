@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Welcome To My Profile.</h1>
 
-![TufailKhanDeveloper's Stats](https://github-readme-stats.vercel.app/api?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)   <img align='right' src="https://emojis.slackmojis.com/emojis/images/1643516087/21096/bananadance_smile.gif?1643516087" width="230">
+![TufailKhanDeveloper's Stats](https://github-readme-stats.vercel.app/api?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)   <img align='right' src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="230">
 
 ##
  ![TufailKhanDeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&layout=compact) 
