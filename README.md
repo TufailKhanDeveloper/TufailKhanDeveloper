@@ -1,10 +1,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+![TufailKhanDeveloper's Stats](https://github-readme-stats.vercel.app/api?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
+##
+![TufailKhanDeveloper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TufailKhanDeveloper&theme=highcontrast&hide_border=true)
+##
+![TufailKhanDeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
 🚀 Front-end Development:
 
 • ReactJS
 • NextJS
-• VueJS                                                  ![TufailKhanDeveloper's Stats](https://github-readme-stats.vercel.app/api?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
+• VueJS
 • AngularJS
 
 🚀 Back-end Development:
@@ -15,7 +21,7 @@
 💾 Databases:
 
 • MySQL
-• MongoDB                                                        ![TufailKhanDeveloper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TufailKhanDeveloper&theme=highcontrast&hide_border=true)
+• MongoDB
 
 💻 Scripting Languages:
 
@@ -32,7 +38,7 @@
 • I create special contracts and features on the blockchain using Solidity.                        
 • I make sure these contracts are secure and free from problems.
 
-💼 Other Skills and Expertise:      ![TufailKhanDeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+💼 Other Skills and Expertise:
 
 • I know both front-end and back-end development.
 • I manage databases with MySQL and MongoDB.
