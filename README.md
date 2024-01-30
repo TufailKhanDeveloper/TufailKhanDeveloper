@@ -7,47 +7,20 @@
 ![TufailKhanDeveloper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TufailKhanDeveloper&theme=highcontrast&hide_border=true)
 ##
 
-🚀 Front-end Development:
-
-• ReactJS
-• NextJS
-• VueJS
-• AngularJS
-
-🚀 Back-end Development:
-
-• PHP
-• Django
-
-💾 Databases:
-
-• MySQL
-• MongoDB
-
-💻 Scripting Languages:
-
-• Python
-• JavaScript
-• Solidity
-
-🌐 Full-stack Development:
-
-• I handle everything in creating projects from the beginning to the end.
-
-🔗 Blockchain Development (EVM-compatible Solidity):
-
-• I create special contracts and features on the blockchain using Solidity.                        
-• I make sure these contracts are secure and free from problems.
-
-💼 Other Skills and Expertise:
-
-• I know both front-end and back-end development.
-• I manage databases with MySQL and MongoDB.
-• I keep things secure and deal with potential issues.
-• I work with Python, JavaScript, and blockchain tools.
-• I have over 5 years of experience with major frameworks and languages.
-• I have over 3 years of hands-on experience with major blockchain protocols.
-
+```javascript
+const thai = {
+    pronouns: "He" | "Him",
+    code: [Javascript, Typescript, Soldity, MERN, Tailwind, Python, Java],
+    tools: [React, Redux, Node, Web3, NextJS, Angular, Vue.js],
+    development: ["blockchain development", "frontend development", "backend development"],
+    aboutMe: {
+                        Education: "Bachelor of Computer Science",
+                          Upwork: "TufailKhanDeveloper",
+                          Linkedin: "Muhammad Tufail Khan"
+                        },
+   challenge: "Creating Web3 and cool projects as fast as I can."
+  }
+  ```
 Thanks a lot in advance! 
 
 ## 💫 BEST SKILLS OF MINE 🌟
