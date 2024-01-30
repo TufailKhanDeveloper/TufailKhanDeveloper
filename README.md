@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hey! Welcome To My Profile.</h1>
 
-![TufailKhanDeveloper's Stats](https://github-readme-stats.vercel.app/api?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&count_private=false) <img align='right' src="https://scontent.fkhi24-1.fna.fbcdn.net/v/t39.30808-6/344304750_1208527323132142_6358815451558586277_n.jpg](https://scontent.fkhi24-1.fna.fbcdn.net/v/t39.30808-6/344304750_1208527323132142_6358815451558586277_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=nu5cOsXSdi4AX-hlgVX&_nc_ht=scontent.fkhi24-1.fna&oh=00_AfBbK8YvLynrTFihKjXnq38s5XGjIC7WLJC2jS4kaDtM9g&oe=65BD5929" width="230">
-##
+![TufailKhanDeveloper's Stats](https://github-readme-stats.vercel.app/api?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&count_private=false) 
 ##
  ![TufailKhanDeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&layout=compact) 
+ ##
 ![TufailKhanDeveloper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TufailKhanDeveloper&theme=highcontrast&hide_border=true)
 ##
 
