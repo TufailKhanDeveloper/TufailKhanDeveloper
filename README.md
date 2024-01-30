@@ -4,7 +4,7 @@
 
 • ReactJS
 • NextJS
-• VueJS
+• VueJS                                                  ![TufailKhanDeveloper's Stats](https://github-readme-stats.vercel.app/api?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)
 • AngularJS
 
 🚀 Back-end Development:
@@ -15,7 +15,7 @@
 💾 Databases:
 
 • MySQL
-• MongoDB
+• MongoDB                                                        ![TufailKhanDeveloper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TufailKhanDeveloper&theme=highcontrast&hide_border=true)
 
 💻 Scripting Languages:
 
@@ -29,10 +29,10 @@
 
 🔗 Blockchain Development (EVM-compatible Solidity):
 
-• I create special contracts and features on the blockchain using Solidity.
+• I create special contracts and features on the blockchain using Solidity.                        
 • I make sure these contracts are secure and free from problems.
 
-💼 Other Skills and Expertise:
+💼 Other Skills and Expertise:      ![TufailKhanDeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 
 • I know both front-end and back-end development.
 • I manage databases with MySQL and MongoDB.
