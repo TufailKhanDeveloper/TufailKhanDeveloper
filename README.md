@@ -31,5 +31,5 @@ const thai = {
   <img align="right" alt="Tufail Khan | Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 <a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Tufail Khan | Portfolio" width="30px" src="https://i.pinimg.com/564x/ce/d8/e7/ced8e75882f2631defd5cea45446693f.jpg" />
+  <img align="right" alt="Tufail Khan | Portfolio" width="30px" src="https://emojis.slackmojis.com/emojis/images/1651008880/58342/web_net.png?1651008880" />
 </a>
