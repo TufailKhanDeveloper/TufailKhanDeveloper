@@ -22,7 +22,5 @@ const thai = {
   }
   ```
 ##
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/945b0225337909.563440870421b.png" width="20" href="https://tuffudevelopment.vercel.app/"> <b>Check Out My Portfolio</b>  
-##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 ##
