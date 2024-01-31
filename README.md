@@ -27,3 +27,6 @@ const thai = {
 <a href="https://twitter.com/anuraghazru">
   <img align="right" alt="Tufail Khan | Upwork" width="30px" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" />
 </a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Tufail Khan | Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
+</a>
