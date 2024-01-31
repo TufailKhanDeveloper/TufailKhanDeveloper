@@ -33,3 +33,6 @@ const thai = {
 <a href="https://tuffudevelopment.vercel.app/">
   <img align="right" alt="Tufail Khan | Portfolio" width="30px" src="https://emojis.slackmojis.com/emojis/images/1651008880/58342/web_net.png?1651008880" />
 </a>
+<a href="">
+  <img align="right" alt="Tufail Khan | Buy me a coffee" width="30px" src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" />
+</a>
