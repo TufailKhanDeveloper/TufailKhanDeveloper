@@ -3,7 +3,7 @@
 ![TufailKhanDeveloper's Stats](https://github-readme-stats.vercel.app/api?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&count_private=false)   <img align='right' src="https://emojis.slackmojis.com/emojis/images/1643514476/4594/blob-wave.gif?1643514476" width="230">
 
 ##
-![TufailKhanDeveloper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TufailKhanDeveloper&theme=highcontrast&hide_border=true)   ![TufailKhanDeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&layout=compact) 
+![TufailKhanDeveloper's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TufailKhanDeveloper&theme=highcontrast&hide_border=true)          ![TufailKhanDeveloper's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TufailKhanDeveloper&theme=highcontrast&show_icons=true&hide_border=true&layout=compact) 
  ##
 
 
