@@ -27,7 +27,7 @@ const thai = {
 <a href="https://www.upwork.com/freelancers/tufailkhandeveloper">
   <img align="right" alt="Tufail Khan | Upwork" width="30px" src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" />
 </a>
-<a href="https://www.linkedin.com/in/muhammad-tufail-khan-229310265/">
+<a href="">
   <img align="right" alt="Tufail Khan | Linkedin" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" />
 </a>
 <a href="https://tuffudevelopment.vercel.app/">
